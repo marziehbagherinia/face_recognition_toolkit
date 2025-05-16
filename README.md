@@ -1,2 +1,2 @@
-# Race-Recognition-Using-Image-Processing
-In this repository, I implement a race recognizer that use Tensorflow and Keras library for image processing.
+# Face Recognition Toolkit
+This repository implements a face recognition system using image processing techniques with TensorFlow and Keras.
